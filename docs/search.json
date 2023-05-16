@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-05-16T18:35:54-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "STA 631",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-05-16T18:35:55-04:00"
+    }
+  ],
+  "collections": []
+}
